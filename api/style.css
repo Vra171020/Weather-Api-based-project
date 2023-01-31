@@ -1,0 +1,13 @@
+body{
+  background-size: cover;
+  position: relative;
+  }
+  .mar{
+   margin-right: 500px;
+   } 
+   @media only screen and (max-width: 930px) {
+    .navbar .form {
+      margin-right: 200px;
+    }
+
+   }
